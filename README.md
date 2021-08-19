@@ -1,5 +1,5 @@
 # TechRocket
-This is a capstone project for Upskilling program from HTU (Hussain Technical University), in Data Analytics and Visualization Track.
+This is a capstone project for Upskilling program from HTU (Hussain Technical University) [Amman- Jordan] , in Data Analytics and Visualization Track.
 
 #The project scenario:
 A sports channel asked TeckRocket to analyze some international football match information as a preparatory step for the FIFA World Cup Qatar 2022.
